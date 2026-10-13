@@ -16,7 +16,7 @@ _____
 
 ## Constraints
 
-Cite all slack ID tickets, JIRA keys for all claims. Do not guess. Only use real data. DO not include PII. If unsure, route to a human. 
+Cite all slack ID tickets, JIRA keys for all claims and ensure they are real. Do not make fake IDs. Do not guess. Only use real data. DO not include PII. If unsure, route to a human. 
 
 _____
 
