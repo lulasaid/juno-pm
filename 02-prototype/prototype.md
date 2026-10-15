@@ -4,7 +4,8 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
+<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/fd458a2a-a5a9-4344-8a0d-e2a9b3849050" />
+
 
 _____
 
